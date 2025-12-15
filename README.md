@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hola, soy Patrick Schönewolf</h1>
-<h3 align="center">Desarrollador Web | Automatización | Ciberseguridad</h3>
+<h2 align="center">Desarrollador Web | Automatización | Ciberseguridad</h2>
 
 <p align="center">
 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones reales.
