@@ -10,12 +10,12 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 
 ### 🚀 Sobre mí
 
-- 🎓 Grado Superior en **Desarrollo de Aplicaciones Web**
-- 💻 Enfocado en **Frontend (React, Tailwind)** y **automatización**
-- 🔐 Interesado en **ciberseguridad**, CTFs y pentesting a nivel práctico
-- 🧪 Creo proyectos propios para aprender y mejorar constantemente
-- 🐧 Amante de **Linux** y los entornos personalizados
-- 🧠 Autodidacta, constante y con muchas ganas de crecer profesionalmente
+- 🎓 Grado Superior en **Desarrollo de Aplicaciones Web**.
+- 💻 Enfocado en **Frontend (React, Tailwind)** y **automatización**.
+- 🔐 Interesado en **ciberseguridad**, CTFs y pentesting a nivel práctico.
+- 🧪 Creo proyectos propios para aprender y mejorar constantemente.
+- 🐧 Amante de **Linux** y los entornos personalizados.
+- 🧠 Autodidacta, constante y con muchas ganas de crecer profesionalmente.
 
 ---
 
@@ -33,20 +33,20 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 
 ### 🔎 Áreas que exploro
 
-- Desarrollo de **interfaces web modernas**
-- Automatización con **n8n** y **Make**
-- Integración de **APIs**
-- Ciberseguridad práctica y **CTFs**
-- Administración de sistemas Linux
-- Creación de herramientas y asistentes con IA
+- Desarrollo de **interfaces web modernas**.
+- Automatización con **n8n** y **Make**.
+- Integración de **APIs**.
+- Ciberseguridad práctica y **CTFs**.
+- Administración de sistemas Linux.
+- Creación de herramientas y asistentes con IA.
 
 ---
 
 ### 📂 Proyectos destacados
 
-- 🔐 **Territorio Hacker** — Blog y recursos de ciberseguridad  
-- 🏋️ **FitTraining** — Plataforma de gestión de entrenamientos  
-- 🤖 **Automatiza tu Trabajo** — Automatizaciones, chatbots y asistentes  
+- 🔐 **Territorio Hacker** — Blog y recursos de ciberseguridad.  
+- 🏋️ **FitTraining** — Plataforma de gestión de entrenamientos.  
+- 🤖 **Automatiza tu Trabajo** — Automatizaciones, chatbots y asistentes. 
 
 ---
 
@@ -54,10 +54,6 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=F1r0x&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F1r0x&theme=tokyonight" />
 </p>
 
 ---
@@ -71,5 +67,5 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 ---
 
 <p align="center">
-  <i>Learning by doing. One commit at a time.</i>
+  <i>El mejor desarrollador no es el que más sabe, sino el que mejor aprende.</i>
 </p>
