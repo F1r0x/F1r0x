@@ -59,7 +59,7 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 
 ### 📫 Contacto
 
-- 🤖 Porfolio: https://www.profilepatrick.com/
+- 🪪 Porfolio: https://www.profilepatrick.com/
 - 🌐 Web: https://territoriohacker.com
 - 💼 LinkedIn: https://www.linkedin.com/in/patrick-schonewolf-campanario/
 - 📧 Email: patrickschonewolf@hotmail.com
