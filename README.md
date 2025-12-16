@@ -1,9 +1,3 @@
-<div align="center" margin-bottom="-200">
-  <img
-    src="https://user-images.githubusercontent.com/103068924/186533452-222dd94d-4649-4da7-9d98-c77b82f77377.gif"
-    width="70"
-  />
-</div>
 <h2 align="center">Desarrollador Web | Automatización | Ciberseguridad</h2>
 
 <p align="center">
@@ -71,7 +65,12 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 - 📧 Email: patrickschonewolf@hotmail.com
 
 ---
-
+<div align="center" margin-bottom="-200">
+  <img
+    src="https://user-images.githubusercontent.com/103068924/186533452-222dd94d-4649-4da7-9d98-c77b82f77377.gif"
+    width="70"
+  />
+</div>
 <p align="center">
   <i>El mejor desarrollador no es el que más sabe, sino el que mejor aprende.</i>
 </p>
