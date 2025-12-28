@@ -49,13 +49,6 @@ Me gusta construir aplicaciones, automatizar procesos y entender cómo funcionan
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F1r0x&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contacto
 
